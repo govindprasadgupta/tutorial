@@ -9,4 +9,5 @@ Tutorial contains:
 3. Compoment: Appregistry, falt list, section list, text, textinput, view, scrollview, dimension, platform
           https://www.youtube.com/watch?v=BOFiPkmqf08&t=21s
 4. Debugging: log, warn, error, debug, network and layout inspect.
+          https://www.youtube.com/watch?v=hn_6C0y8D84
 
