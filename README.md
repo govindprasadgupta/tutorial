@@ -19,6 +19,8 @@ This document tells about creating and publishing a package.
 # 6. Code share between react.js and react antive:
 This tutorial explains about code sharing between react.js and react native project. Zip folder contains an example of code shaing.
 https://www.youtube.com/watch?v=qt-5J75a87U&t=661s
-# 
+# React Native App with Micro-apps:
+This turorial says about implementing micro apps or min program and integrate these app into main application.
+https://www.youtube.com/watch?v=OAvQo_1MYmY&t=4s
 
 
