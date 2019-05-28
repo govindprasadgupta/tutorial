@@ -11,5 +11,7 @@ Tutorial contains:
 4. Debugging: This slide tels about application debugging using log, warn, error, debug, network and layout inspect.
           https://www.youtube.com/watch?v=hn_6C0y8D84
 5. Publish React-native package: This document tells about creating and publishing a package.
-6.
+6. Code share between react.js and react antive: This tutorial explains about code sharing between react.js and react native project. Zip folder contains an example of code shaing.
+https://www.youtube.com/watch?v=qt-5J75a87U&t=661s
+
 
