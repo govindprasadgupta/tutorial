@@ -8,7 +8,8 @@ Tutorial contains:
           https://www.youtube.com/watch?v=PK7amF5uqeQ
 3. Compoment: This presentation provides detail about Appregistry, falt list, section list, text, textinput, view, scrollview, dimension, platform. Zip folder contains an example of react native using methioned keys.
           https://www.youtube.com/watch?v=BOFiPkmqf08
-4. Debugging: log, warn, error, debug, network and layout inspect.
+4. Debugging: This slide tels about application debugging using log, warn, error, debug, network and layout inspect.
           https://www.youtube.com/watch?v=hn_6C0y8D84
-5. Publish React-native package: Document for creating and publishing a package
+5. Publish React-native package: This document tells about creating and publishing a package.
+6.
 
